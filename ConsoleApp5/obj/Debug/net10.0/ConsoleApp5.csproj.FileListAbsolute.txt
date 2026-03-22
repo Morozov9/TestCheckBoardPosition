@@ -1,0 +1,14 @@
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.exe
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.deps.json
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.runtimeconfig.json
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.dll
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\bin\Debug\net10.0\ConsoleApp5.pdb
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.dll
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\refint\ConsoleApp5.dll
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.pdb
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\ConsoleApp5.genruntimeconfig.cache
+C:\Users\ldruz\RiderProjects\ConsoleApp5\ConsoleApp5\obj\Debug\net10.0\ref\ConsoleApp5.dll
